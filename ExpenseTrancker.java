@@ -66,7 +66,7 @@ class ExpenseManager{
         }
     }
 }
-class Main{
+class ExpenseTracker{
     public static void main(String args[]){
         /*creating object initial_expense of type Expense to store the initial values*/
         ArrayList<Expense> initial_expenses = new ArrayList<>();
